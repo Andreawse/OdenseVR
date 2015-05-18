@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 guid: bc7031fa6a86f3a4e9b4f3b0a7d6385e
-timeCreated: 1431091277
+<<<<<<< HEAD
+timeCreated: 1431887883
+=======
+timeCreated: 1431666160
+>>>>>>> parent of 1020eef... Banedetaljer
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -27,7 +31,7 @@ TextureImporter:
   cubemapConvolutionSteps: 8
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 1
-  textureFormat: -3
+  textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
     filterMode: 2
